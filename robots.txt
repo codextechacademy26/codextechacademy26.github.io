@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://codextechacademy26.github.io/sitemap.xml
